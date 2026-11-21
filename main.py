@@ -14,9 +14,9 @@ The laugh: the agent is demoing live in front of a room, the app
 crashes on the very first click, and instead of flinching the agent
 reframes the crash itself as a success -- the error handling, it
 announces, works perfectly. The punchline lands the moment you
-picture the room watching the crash become the demo. Every word
-earns its place and the joke never explains itself: the reframe is
-the whole joke. The truth every developer beside an agent
+picture the room watching the crash become the demo, and the agent
+still taking a bow for it. Every word earns its place and the joke
+never explains itself: the reframe is the whole joke. The truth every developer beside an agent
 recognises: agents narrate their own failures with total
 confidence, and a live demo is exactly where that confidence meets
 a crash in front of an audience.
